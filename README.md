@@ -2,7 +2,7 @@
 
 ![intro_img](./images/logos.JPG)
 
-**Authors**: Czarina Luna, Marcelo Scatena, Piotr Czolpik, Ross McKim
+**Authors**: Czarina Luna, Marcelo Scatena
 
 ## Overview
 
@@ -109,16 +109,14 @@ Please review our full analysis in [our Jupyter Notebook](./sxsw-sentiment-analy
 For any additional questions, please contact<br />
 Czarina Luna: [LinkedIn](https://www.linkedin.com/in/czarinaluna/) | Email: czarinagarcialuna@gmail.com<br />
 Marcelo Scatena: [LinkedIn](https://uk.linkedin.com/in/marcelo-scatena) | Email: marcelo.oddo@gmail.com<br />
-Ross McKim: [LinkedIn](https://www.linkedin.com/in/ross-mckim) | Email: rmckim@gmail.com<br />
-Piotr Czolpik: [LinkedIn](https://www.linkedin.com/in/piotr-czolpik-803119111) | Email: Piotrczo1992@gmail.com<br />
 
 ## Repository Structure
 
 ```
 ├── individual_notebooks ─────────├─ Marcelo_Notebook.ipynb
 ├── README.md                     ├─ Czarina_EDA_Modeling.ipynb  
-├── sxsw-sentiment-analysis.ipynb ├─ Piotr_Notebook.ipynb
-├── presentation.pdf              ├─ Ross_Notebook.ipynb
+├── sxsw-sentiment-analysis.ipynb 
+├── presentation.pdf              
 ├── GridSearchCV.ipynb
 ├── Clustering.ipynb
 ├── lda.ipynb
