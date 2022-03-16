@@ -1,4 +1,4 @@
-# Twitter Sentment Analysis
+# Twitter Sentiment Analysis
 
 ![intro_img](./images/logos.JPG)
 
@@ -75,8 +75,6 @@ Here we have reduced to only around 7% the model mislabeling of Negative Sentime
 We performed LDA to see how it would cluster the data given our specifications. Below you can see the graph with all our data, where Google and Ipad where selected by the lda as our two latent topics, and the words with the highest likelihoods of pointing towards one of those clusters.
 
 <img src="./images/lda.JPG" alt="lda" height="420"/>
-
-[testing](./images/lda.JPG =420x)
 
 The full notebook on LDA can be found [here](./LDA.ipynb)
 
